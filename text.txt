@@ -1,0 +1,20 @@
+cricket require canyon bottom path keen define interest leg diagram cancel train
+
+
+Address : 0x01710180c4a49b73e94d5fb17602097a5eafce65c3f545fd1c67f21114c7a88b
+
+Class Hash : 0x03131fa018d520a037686ce3efddeab8f28895662f019ca3ca18a626650f7d1e
+
+Private Key: 0xffd52f01989a787bb2bf197d46bbdef6e94a626cda982be7226cafd068579f
+
+Public Key :  0x03af5288f27f5cb373b06b13ac027fdaa665fb48884e452698688637a09d9fb9
+
+ownable class hash : 0x026c2f8b0cfdd268eee73581427fa723b7d245c90df30305966e5e197b2adaa6
+
+starkli deploy \
+0x026c2f8b0cfdd268eee73581427fa723b7d245c90df30305966e5e197b2adaa6 \
+0x01710180c4a49b73e94d5fb17602097a5eafce65c3f545fd1c67f21114c7a88b
+
+starkli call \
+0x016e5a48589921f55bca84fb5e0f02dad0a04c0ed7c5e334c9a3a1da14159edf \
+get_owner
